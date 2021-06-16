@@ -1,0 +1,16 @@
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\bin\Debug\net5.0\Lesson4Work2.exe
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\bin\Debug\net5.0\Lesson4Work2.deps.json
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\bin\Debug\net5.0\Lesson4Work2.runtimeconfig.json
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\bin\Debug\net5.0\Lesson4Work2.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\bin\Debug\net5.0\Lesson4Work2.dll
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\bin\Debug\net5.0\ref\Lesson4Work2.dll
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\bin\Debug\net5.0\Lesson4Work2.pdb
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.dll
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\ref\Lesson4Work2.dll
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.pdb
+C:\Users\Дима\Desktop\Lesson4\2\Lesson4Work2\Lesson4Work2\obj\Debug\net5.0\Lesson4Work2.genruntimeconfig.cache
