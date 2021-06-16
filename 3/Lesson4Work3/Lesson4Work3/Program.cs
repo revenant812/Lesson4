@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson4Work2
+namespace Lesson4Work3
 {
     class Program
     {
@@ -9,7 +9,7 @@ namespace Lesson4Work2
             Winter,
             Spring,
             Summer,
-            Autumn,            
+            Autumn,
         }
         static void Main(string[] args)
         {
@@ -17,7 +17,7 @@ namespace Lesson4Work2
             string NumberMonth = Console.ReadLine();
             int NumberMonthInt = Convert.ToInt32(NumberMonth);
             Console.WriteLine(FindMonth(NumberMonthInt));
-            
+
         }
 
         static listMonth FindMonth(int i)
@@ -26,7 +26,7 @@ namespace Lesson4Work2
             switch (i)
             {
                 case 1:
-                    result =  listMonth.Winter;
+                    result = listMonth.Winter;
                     break;
                 case 2:
                     result = listMonth.Winter;
@@ -37,6 +37,5 @@ namespace Lesson4Work2
             }
             return result;
         }
-
     }
 }

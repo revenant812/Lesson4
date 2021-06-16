@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Дима\\Desktop\\Lesson4\\2\\Lesson4Work2\\Lesson4Work2\\Lesson4Work2.csproj",
-      "projectName": "Lesson4Work2",
-      "projectPath": "C:\\Users\\Дима\\Desktop\\Lesson4\\2\\Lesson4Work2\\Lesson4Work2\\Lesson4Work2.csproj",
+      "projectUniqueName": "C:\\Users\\Дима\\Desktop\\Lesson4\\3\\Lesson4Work3\\Lesson4Work3\\Lesson4Work3.csproj",
+      "projectName": "Lesson4Work3",
+      "projectPath": "C:\\Users\\Дима\\Desktop\\Lesson4\\3\\Lesson4Work3\\Lesson4Work3\\Lesson4Work3.csproj",
       "packagesPath": "C:\\Users\\Дима\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Дима\\Desktop\\Lesson4\\2\\Lesson4Work2\\Lesson4Work2\\obj\\",
+      "outputPath": "C:\\Users\\Дима\\Desktop\\Lesson4\\3\\Lesson4Work3\\Lesson4Work3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
