@@ -16,10 +16,12 @@ namespace ConsoleApp7
 
         }
 
+        /*
         static string GetFullName(string FirstName, string lastName, string Patronymic)
         {
             return $"{FirstName} {lastName} {Patronymic}";                          
         }
+        */
 
         static (string name1, string name2, string name3) GetUserName()
         {
